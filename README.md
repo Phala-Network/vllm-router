@@ -1,4 +1,6 @@
 # vLLM Router
+
+Phala maintains its pinned production packaging in [phala/](phala/README.md). This public repository is a fork of `vllm-project/router`; the selected production wheel and upstream revision are documented separately from the current upstream main branch.
 <p align="center">
 | <a href="docs/load_balancing/README.md"><b>Documentation</b></a> | <a href="https://deepwiki.com/vllm-project/router"><b>DeepWiki</b></a> | <a href="https://discuss.vllm.ai"><b>User Forum</b></a> | <a href="https://vllm-dev.slack.com/archives/C085AUU43NK"><b>Developer Slack</b></a> | <a href="docs/assets/WeChat.png"><b>WeChat</b></a> |
 </p>
